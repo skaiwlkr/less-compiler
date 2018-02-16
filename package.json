@@ -1,21 +1,21 @@
 {
-  "name": "website-testings",
+  "name": "gulp-less-compiler",
   "version": "1.0.0",
-  "description": "website tests",
+  "description": "compiles less to css (or minified css)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/majesticlabs/website-testings.git"
+    "url": "git+https://github.com/majesticlabs/gulp-less-compiler"
   },
   "author": "sebastian vogt",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/majesticlabs/website-testings/issues"
+    "url": "https://github.com/majesticlabs/gulp-less-compiler/issues"
   },
-  "homepage": "https://github.com/majesticlabs/website-testings#readme",
+  "homepage": "https://github.com/majesticlabs/gulp-less-compiler#readme",
   "devDependencies": {
     "gulp": "^4.0.0",
     "gulp-autoprefixer": "^4.1.0",
