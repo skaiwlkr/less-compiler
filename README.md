@@ -1,6 +1,7 @@
 # Getting Started
 
 ### Install npm
+*Gulp 4.0.0 is required!*
 
 ```sh
 npm install
@@ -18,3 +19,6 @@ gulp
 ```sh
 ctrl + c
 ```
+
+### If you need help, check this site
+https://www.liquidlight.co.uk/blog/article/how-do-i-update-to-gulp-4/
