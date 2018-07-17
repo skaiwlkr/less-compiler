@@ -1,3 +1,5 @@
+![less-compiler-image](http://source.majesticlabs.de/github/repo/less-compiler/img/@2xgithub_less-compiler.png)
+
 # Getting Started
 
 ### Install npm
