@@ -1,5 +1,5 @@
 {
-  "name": "gulp-less-compiler",
+  "name": "less-compiler",
   "version": "1.0.0",
   "description": "compiles less to css (or minified css)",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/majesticlabs/gulp-less-compiler"
+    "url": "git+https://github.com/majesticlabs/less-compiler"
   },
   "author": "sebastian vogt",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/majesticlabs/gulp-less-compiler/issues"
+    "url": "https://github.com/majesticlabs/less-compiler/issues"
   },
-  "homepage": "https://github.com/majesticlabs/gulp-less-compiler#readme",
+  "homepage": "https://github.com/majesticlabs/ess-compiler#readme",
   "devDependencies": {
     "gulp": "^4.0.0",
     "gulp-autoprefixer": "^4.1.0",
