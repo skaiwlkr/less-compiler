@@ -2,6 +2,9 @@
 
 # Getting Started
 
+## Feel free to use!
+It would be very nice to leave me feedback or create pull-requests.
+
 ### Install npm
 *Gulp 4.0.0 is required!*
 
