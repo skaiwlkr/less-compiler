@@ -1,4 +1,4 @@
-![less-compiler-image](http://source.majesticlabs.de/github/repo/less-compiler/img/@2xgithub_less-compiler.png)
+![less-compiler-image](http://assets.majesticlabs.de/github/repo/less-compiler/img/github_less-compiler.png)
 
 # Getting Started
 
